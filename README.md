@@ -6,10 +6,16 @@ This project utilizes PlayStation VR technology to present a virtual concert exp
 
 # Team Members 
 Bianca Toto- Project Manager
+
 Juan Arango- Developer
+
 Sophie McIntyre- Scrum Master
+
 
 # Important Documentation
 SRS and SRS Presentation
+
 SAS and SAS Presentation
+
 Project Proposal
+
